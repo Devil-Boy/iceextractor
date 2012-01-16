@@ -1,0 +1,6 @@
+name: IceExtractor
+main: pgDev.bukkit.IceExtractor.IE
+version: 0.1
+author: PG Dev Team
+authors: [Devil Boy]
+description: A new way to get ice!
